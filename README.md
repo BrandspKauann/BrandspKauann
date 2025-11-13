@@ -10,7 +10,7 @@
   
   # Hi! I'm Kauann Pires 👋
   
-  ### **Artificial Intelligence Engineer** | Deep Learning & Automation Specialist
+  ### AI & Automation Engineer | Senior n8n Developer | Machine Learning | Deep Learning |
   
   <a href="https://linkedin.com/in/kauann-pires" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
