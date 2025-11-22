@@ -26,8 +26,9 @@
 
 ---
   
-  <img src="https://github-readme-stats.vercel.app/api?username=BrandspKauann&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FF0000&icon_color=FF0000&text_color=FFF" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandspKauann&layout=compact&hide_border=true&langs_count=6&title_color=FF0000&icon_color=FF0000&text_color=FFF&theme=dark&count_private=true&version=202511081510" alt="Linguagens Mais Usadas" />
+ ![BrandspKauann's Stats](https://github-readme-stats.vercel.app/api?username=BrandspKauann&theme=radical&show_icons=true&hide_border=false&count_private=true)
+ ![BrandspKauann's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrandspKauann&theme=radical&hide_border=false)
+ ![BrandspKauann's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandspKauann&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 </div>
 
