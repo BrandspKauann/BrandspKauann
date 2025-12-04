@@ -46,32 +46,6 @@
 ###
 
 ---
-  
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/BrandspKauann">
-          <img src="https://github-readme-stats.vercel.app/api?username=BrandspKauann&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="BrandspKauann's Stats" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/BrandspKauann">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrandspKauann&theme=radical&hide_border=false" alt="BrandspKauann's Streak" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/BrandspKauann">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandspKauann&theme=radical&show_icons=true&hide_border=false" alt="BrandspKauann's Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 <br clear="both">
 
 <picture>
